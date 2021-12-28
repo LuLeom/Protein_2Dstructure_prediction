@@ -4,7 +4,7 @@ import numpy as np
 from sys import argv
 import pickle
 
-# How to use this script: 1st input : training list ids , 2nd: output file (dictionary with infomatrices, binary), 3rd: dssp directory, 4th : 
+# How to use this script: 1st input : training list ids , 2nd: output file (dictionary with infomatrices, binary), 3rd: dssp directory, 4th : profiles directory
 
 H=np.zeros(shape=(17,20))
 E=np.zeros(shape=(17,20))
